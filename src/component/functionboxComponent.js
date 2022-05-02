@@ -2,7 +2,7 @@ import {useState} from "react";
 function FunctionboxComponent(){
      var btnTitle ="to see styling in functional component";
     var title ="Created using Function Component";
-    const [visi, setVisi] = useState(1);
+    const [visi, setVisi] = useState(0);
 
   return(
   
